@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bookmark"
+        android:icon="@drawable/ic_bookmark_outline"
+        android:title="Bookmarked" />
+
+    <item
+        android:id="@+id/favourite"
+        android:icon="@drawable/ic_favourite_border"
+        android:title="Favorites" />
+
+    <item
+        android:id="@+id/night_mode"
+        android:title="Night mode" />
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_share"
+        android:title="Shares" />
+
+
+    <item
+        android:id="@+id/screenshot"
+        android:icon="@drawable/ic_screen_shot"
+        android:title="Screenshot" />
+
+
+</menu>

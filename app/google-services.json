@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1061739076042",
+    "project_id": "thebook-moprog",
+    "storage_bucket": "thebook-moprog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061739076042:android:f618e8ac0f15ec22ba5733",
+        "android_client_info": {
+          "package_name": "com.mobpro.thebookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061739076042-a71m5dc4e70gdklgpoelm8hot51di4f2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobpro.thebookapp",
+            "certificate_hash": "6288c6ab735403ae9746afb73d8a410650869194"
+          }
+        },
+        {
+          "client_id": "1061739076042-prv9skh0bt5m4gs92a735jnh58mrcuau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnKxx_J83xVD8AoIWvsDCkXUthFoeTRDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061739076042-prv9skh0bt5m4gs92a735jnh58mrcuau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
