@@ -12,7 +12,7 @@ An e-book reader app as a learning media between lecturers and students of FIK U
 
 <img src="https://user-images.githubusercontent.com/48327678/184027025-7358b042-d60c-48c4-b965-49ec9bbbffdf.png" width="315" height="666">
 
-<img src="https://user-images.githubusercontent.com/48327678/184026543-02b0bf59-77bd-458d-89b2-9cd9e51a8f48.png" width="315" height="666">
+<img src="https://user-images.githubusercontent.com/48327678/184029094-28efb3a9-00a4-4ddf-a174-53e6c48411fc.png" width="315" height="666">
 
 <img src="https://user-images.githubusercontent.com/48327678/184026615-80bb4d8e-c48c-4928-a500-c2b22a029611.png" width="315" height="666">
 
